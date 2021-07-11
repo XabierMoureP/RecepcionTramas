@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621850038 source:c:\users\xabie\desktop\clase\universidad\segundo\redes\practica_http\parte2\main.c
+	<pcap.h>
+	<stdio.h>
+	<time.h>
+
